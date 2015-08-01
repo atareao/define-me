@@ -1,0 +1,36 @@
+define-me (0.4.0-0extras13.04.1) raring; urgency=low
+
+  * Changed configuration engine
+  * Updated searches in RAE
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 02 Jun 2013 20:59:27 +0200
+
+define-me (0.3.1.2-1ubuntu1) oneiric; urgency=low
+
+  * Fixed a bug with preferences
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 15 Oct 2011 14:23:14 +0200
+
+define-me (0.3.1.1-1ubuntu1) oneiric; urgency=low
+
+  * Fixed some bugs with the search and with spaces
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 15 Oct 2011 14:09:49 +0200
+
+define-me (0.3.1-1ubuntu1) oneiric; urgency=low
+
+  * Fixed a bug with launcher
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 15 Oct 2011 07:54:19 +0200
+
+define-me (0.3.0-1ubuntu1) oneiric; urgency=low
+
+  * Ported to PyGi
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Wed, 12 Oct 2011 18:46:36 +0200
+
+define-me (0.2.1-1ubuntu1) maverick; urgency=low
+
+  * Fixed a bug
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Thu, 17 Feb 2011 21:18:47 +0100

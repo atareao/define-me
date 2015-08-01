@@ -1,0 +1,30 @@
+[Desktop Entry]
+_Name = define-me
+_Comment = define-me
+_GenericName = define-me
+Exec = /opt/extras.ubuntu.com/define-me/bin/define-me
+Icon = /opt/extras.ubuntu.com/define-me/share/pixmaps/define-me.svg
+Type = Application
+Terminal = false
+StartupNotify = true
+Encoding = UTF-8
+Categories = Utility;
+$Name[it] = _('define-me')
+$Name[de] = _('define-me')
+$Name[en] = _('define-me')
+$Name[gl] = _('define-me')
+$Name[es] = _('define-me')
+$Name[fr] = _('define-me')
+$Comment[it] = _('define-me')
+$Comment[de] = _('define-me')
+$Comment[en] = _('define-me')
+$Comment[gl] = _('define-me')
+$Comment[es] = _('define-me')
+$Comment[fr] = _('define-me')
+$GenericName[it] = _('define-me')
+$GenericName[de] = _('define-me')
+$GenericName[en] = _('define-me')
+$GenericName[gl] = _('define-me')
+$GenericName[es] = _('define-me')
+$GenericName[fr] = _('define-me')
+

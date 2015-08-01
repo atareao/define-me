@@ -1,0 +1,6 @@
+en
+it
+es
+gl
+fr
+de
